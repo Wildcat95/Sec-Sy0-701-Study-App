@@ -1,0 +1,539 @@
+1. Which of the following is a characteristic of symmetric encryption?
+a) Uses public and private keys
+b) Slower than asymmetric encryption
+c) Uses the same key for encryption and decryption
+d) Commonly used for secure email communication
+
+2. What is the primary purpose of a firewall?
+a) Encrypt network traffic
+b) Control network access
+c) Detect malware
+d) Manage user accounts
+
+3. Which protocol is used to securely access a remote server's command line?
+a) FTP
+b) Telnet
+c) SSH
+d) HTTP
+
+4.What is the main goal of a DDoS attack?
+a) Steal sensitive data
+b) Gain unauthorized access
+c) Disrupt service availability
+d) Install malware 
+
+5. Which of the following is an example of a detective control?
+a) Firewall
+b) Intrusion Detection System (IDS)
+c) Encryption
+d) Access control list
+
+6. What does SIEM stand for?
+a) Security Information and Event Management
+b) System Integration and Error Monitoring
+c) Secure Infrastructure and Endpoint Management
+d) Software Inventory and Endpoint Monitoring 
+
+7. Which authentication factor is considered "something you are"?
+a) Password
+b) Smart card
+c) Fingerprint
+d) Security token 
+
+8. What is the purpose of a honeypot in cybersecurity?
+a) To attract and detect attackers
+b) To store sensitive data securely
+c) To encrypt network traffic
+d) To manage user permissions 
+
+9. Which of the following is a characteristic of a worm?
+a) Requires user interaction to spread
+b) Self-replicates and spreads automatically
+c) Always encrypts files for ransom
+d) Only affects mobile devices 
+
+10. What is the primary function of a RADIUS server?
+a) Domain name resolution
+b) Network address translation
+c) Authentication and authorization
+d) Web content filtering 
+
+11. Which encryption algorithm is considered asymmetric?
+a) AES
+b) DES
+c) RSA
+d) 3DES 
+
+12. What is the purpose of a DMZ in network security?
+a) To isolate internal networks from the internet
+b) To provide a secure area for public-facing servers
+c) To encrypt all network traffic
+d) To manage user accounts 
+
+13. Which of the following is an example of a social engineering attack?
+a) SQL injection
+b) Phishing
+c) Buffer overflow
+d) Man-in-the-middle attack 
+
+14. What does CSRF stand for in web security?
+a) Cross-Site Request Forgery
+b) Client-Side Response Filter
+c) Cascading Style Request Form
+d) Common Security Risk Factor 
+
+15. Which protocol is used for secure email transmission?
+a) SMTP
+b) POP3
+c) IMAP
+d) S/MIME
+
+16. What is the purpose of a VPN?
+a) To increase internet speed
+b) To block malicious websites
+c) To provide secure remote access
+d) To manage network devices 
+
+17. Which of the following is a characteristic of a rootkit?
+a) Always visible in task manager
+b) Designed to hide its presence
+c) Only affects mobile devices
+d) Cannot survive system reboots 
+
+18. What is the primary goal of data loss prevention (DLP) systems?
+a) Prevent unauthorized data access
+b) Encrypt all data in transit
+c) Manage user accounts
+d) Monitor network performance 
+
+19. Which of the following is an example of a preventive control?
+a) Security camera
+b) Antivirus software
+c) System logs
+d) Incident response plan 
+
+20. What does CIA stand for in information security?
+a) Confidentiality, Integrity, Availability
+b) Cybersecurity, Information Assurance, Authentication
+c) Critical Infrastructure Assessment
+d) Common Internet Architecture 
+
+21. Which protocol is used for secure web browsing?
+a) HTTP
+b) FTP
+c) HTTPS
+d) SMTP
+
+22. What is the purpose of network segmentation?
+a) To increase network speed
+b) To reduce the attack surface
+c) To encrypt all network traffic
+d) To manage user accounts 
+
+23. Which of the following is an example of multi-factor authentication?
+a) Username and password
+b) Password and security question
+c) Password and fingerprint
+d) Two different passwords 
+
+24. What is the main function of an intrusion prevention system (IPS)?
+a) Detect and block malicious activities
+b) Manage user accounts
+c) Encrypt network traffic
+d) Perform regular backups 
+
+25. Which of the following is a characteristic of spyware?
+a) Encrypts files for ransom
+b) Collects information without user consent
+c) Always visible in task manager
+d) Requires user interaction to spread 
+
+26. What is the purpose of a security baseline?
+a) To establish minimum security standards
+b) To encrypt all data at rest
+c) To manage network devices
+d) To detect malware 
+
+27. Which protocol is used for secure file transfer?
+a) FTP
+b) SFTP
+c) HTTP
+d) SMTP
+
+28. What is the primary goal of a penetration test?
+a) To identify and exploit vulnerabilities
+b) To encrypt network traffic
+c) To manage user accounts
+d) To monitor system performance 
+
+29. Which of the following is an example of a compensating control?
+a) Firewall
+b) Antivirus software
+c) Manual log review when automated logging is unavailable
+d) Access control list
+
+30. What does BYOD stand for in enterprise security?
+a) Bring Your Own Device
+b) Build Your Own Database
+c) Backup Your Online Data
+d) Block Your Outgoing Data
+
+31. Which of the following is a characteristic of a zero-day vulnerability?
+a) Has been publicly disclosed for a long time
+b) Only affects outdated systems
+c) Unknown to the software vendor
+d) Always results in system crash
+
+32. What is the purpose of a security information and event management (SIEM) system?
+a) To encrypt network traffic
+b) To manage user accounts
+c) To collect and analyze security event logs
+d) To block malicious websites
+
+33. Which encryption mode is most suitable for encrypting large amounts of data?
+a) ECB (Electronic Codebook)
+b) CBC (Cipher Block Chaining)
+c) CTR (Counter)
+d) OFB (Output Feedback)
+
+34. What is the main purpose of a security policy?
+a) To encrypt all data in transit
+b) To define rules and guidelines for security practices
+c) To detect malware
+d) To manage network devices
+
+35. Which of the following is an example of a logic bomb?
+a) Malware that spreads through email attachments
+b) Software that encrypts files for ransom
+c) Malicious code that activates under specific conditions
+d) A device that intercepts network traffic
+
+36. What is the primary function of a web application firewall (WAF)?
+a) To encrypt web traffic
+b) To filter and monitor HTTP traffic
+c) To manage user accounts
+d) To accelerate web content delivery
+
+37. Which protocol is used for secure remote desktop access?
+a) RDP
+b) VNC
+c) SSH
+d) Telnet
+
+38. What is the purpose of data classification?
+a) To encrypt all data
+b) To categorize data based on sensitivity and importance
+c) To compress data for storage
+d) To delete unnecessary data
+
+39. Which of the following is a characteristic of a man-in-the-middle attack?
+a) Always results in data encryption
+b) Only affects mobile devices
+c) Intercepts communication between two parties
+d) Requires physical access to the target system
+
+40. What is the main goal of security awareness training?
+a) To teach employees how to hack
+b) To educate users about security risks and best practices
+c) To replace technical security controls
+d) To increase network speed
+
+41. Which of the following is an example of a corrective control?
+a) Firewall
+b) Antivirus software
+c) System restore
+d) Access control list
+
+42. What does SOAR stand for in cybersecurity?
+a) Security Orchestration, Automation, and Response
+b) Secure Operations and Risk Assessment
+c) System Optimization and Recovery
+d) Standard Operating and Reporting
+
+43. Which protocol is used for secure email retrieval?
+a) SMTP
+b) POP3S
+c) HTTP
+d) FTP
+
+44. What is the purpose of a security audit?
+a) To encrypt all data at rest
+b) To evaluate the effectiveness of security controls
+c) To manage user accounts
+d) To block malicious websites
+
+45. Which of the following is a characteristic of ransomware?
+a) Always visible in task manager
+b) Encrypts files and demands payment for decryption
+c) Only affects mobile devices
+d) Requires user interaction to spread
+
+46. What is the main function of a network access control (NAC) system?
+a) To encrypt network traffic
+b) To enforce security policies on devices connecting to a network
+c) To manage user accounts
+d) To detect malware
+
+47. Which of the following is an example of a passive reconnaissance technique?
+a) Port scanning
+b) Social engineering
+c) Whois lookup
+d) Vulnerability scanning
+
+48. What is the purpose of a disaster recovery plan?
+a) To prevent all disasters
+b) To outline procedures for restoring operations after a disaster
+c) To encrypt all data
+d) To manage user accounts
+
+49. Which encryption algorithm is considered symmetric?
+a) RSA
+b) ECC
+c) AES
+d) Diffie-Hellman
+
+50. What is the main goal of security hardening?
+a) To increase system performance
+b) To reduce vulnerabilities and attack surface
+c) To encrypt all data
+d) To manage user accounts
+
+51. Which of the following is a characteristic of a buffer overflow attack?
+a) Always results in data encryption
+b) Only affects mobile devices
+c) Exploits memory allocation vulnerabilities
+d) Requires user interaction to execute
+
+52. What is the purpose of a security incident response team (SIRT)?
+a) To encrypt all data in transit
+b) To manage user accounts
+c) To handle and respond to security incidents
+d) To perform regular system backups
+
+53. Which protocol is used for secure domain name resolution?
+a) DNS
+b) DNSSEC
+c) HTTP
+d) SMTP
+
+54. What is the main function of a security operations center (SOC)?
+a) To encrypt network traffic
+b) To monitor and analyze security events
+c) To manage user accounts
+d) To perform software development
+
+55. Which of the following is an example of a detective control?
+a) Firewall
+b) Antivirus software
+c) Security camera
+d) Access control list
+
+56. What does CASB stand for in cloud security?
+a) Cloud Access Security Broker
+b) Centralized Authentication and Security Baseline
+c) Common Application Security Buffer
+d) Critical Asset Security Backup
+
+57. Which encryption mode is most suitable for encrypting streaming data?
+a) ECB (Electronic Codebook)
+b) CBC (Cipher Block Chaining)
+c) CTR (Counter)
+d) OFB (Output Feedback)
+
+58. What is the primary purpose of a security risk assessment?
+a) To encrypt all data at rest
+b) To identify and evaluate potential security risks
+c) To manage user accounts
+d) To detect malware
+
+59. Which of the following is a characteristic of a SQL injection attack?
+a) Always results in data encryption
+b) Only affects mobile devices
+c) Exploits database query vulnerabilities
+d) Requires physical access to the target system
+
+60. What is the main goal of security metrics?
+a) To increase system performance
+b) To measure the effectiveness of security controls
+c) To encrypt all data
+d) To manage user accounts
+
+61. Which protocol is used for secure time synchronization?
+a) NTP
+b) SNTP
+c) HTTP
+d) FTP
+
+62. What is the purpose of a business continuity plan?
+a) To prevent all business disruptions
+b) To outline procedures for maintaining critical operations during a disruption
+c) To encrypt all business data
+d) To manage employee accounts
+
+63. Which of the following is an example of a deterrent control?
+a) Firewall
+b) Antivirus software
+c) Warning signs
+d) Access control list
+
+64. What is the main function of a security information and event management (SIEM) system?
+a) To encrypt network traffic
+b) To collect and analyze security event logs
+c) To manage user accounts
+d) To perform regular backups
+
+65. Which of the following is a characteristic of a cross-site scripting (XSS) attack?
+a) Always results in data encryption
+b) Only affects mobile devices
+c) Injects malicious scripts into web pages
+d) Requires physical access to the target system
+
+66. What is the purpose of a vulnerability scanner?
+a) To encrypt all data at rest
+b) To identify potential security weaknesses in systems
+c) To manage user accounts
+d) To block malicious websites
+
+67. Which protocol is used for secure voice communication over IP networks?
+a) SIP
+b) SRTP
+c) HTTP
+d) SMTP
+
+68. What is the main goal of security governance?
+a) To increase system performance
+b) To align security activities with business objectives
+c) To encrypt all data
+d) To manage user accounts
+
+69. Which of the following is an example of a compensating control?
+a) Firewall
+b) Antivirus software
+c) Manual process when automated control is unavailable
+d) Access control list
+
+70. What does GDPR stand for in data protection?
+a) Global Data Protection Regulation
+b) General Data Privacy Rules
+c) General Data Protection Regulation
+d) Governed Data Processing Requirements
+
+71. Which encryption algorithm is considered asymmetric?
+a) AES
+b) DES
+c) ECC
+d) 3DES
+
+72. What is the primary purpose of a security awareness program?
+a) To teach employees how to hack
+b) To educate users about security risks and best practices
+c) To replace technical security controls
+d) To increase network speed
+
+73. Which of the following is a characteristic of a denial-of-service (DoS) attack?
+a) Always results in data theft
+b) Only affects mobile devices
+c) Attempts to make a resource unavailable
+d) Requires user interaction to execute
+
+74. What is the main function of a security information and event management (SIEM) system?
+a) To encrypt network traffic
+b) To collect and analyze security event logs
+c) To manage user accounts
+d) To perform regular backups
+
+75. Which protocol is used for secure email transmission?
+a) SMTP
+b) POP3
+c) IMAP
+d) S/MIME
+
+76. What is the purpose of a disaster recovery site?
+a) To prevent all disasters
+b) To provide an alternate location for continuing operations after a disaster
+c) To encrypt all data
+d) To manage user accounts
+
+77. Which of the following is an example of a detective control?
+a) Firewall
+b) Antivirus software
+c) Log monitoring
+d) Access control list
+
+78. What does OWASP stand for in web application security?
+a) Open Web Application Security Project
+b) Online Web and Application Security Protocol
+c) Optimized Web Application Security Process
+d) Operational Web Application Security Platfor
+
+79. Which of the following is a characteristic of a polymorphic malware?
+a) Always uses the same code
+b) Changes its code to avoid detection
+c) Only affects mobile devices
+d) Requires user interaction to spread
+
+80. What is the main purpose of a security baseline?
+a) To encrypt all data at rest
+b) To establish minimum security standards
+c) To manage user accounts
+d) To detect malware
+
+81. Which protocol is used for secure remote authentication?
+a) RADIUS
+b) TACACS+
+c) HTTP
+d) FTP
+
+82. What is the primary goal of security orchestration?
+a) To increase system performance
+b) To automate and coordinate security tasks
+c) To encrypt all data
+d) To manage user accounts
+
+83. Which of the following is an example of a preventive control?
+a) Security camera
+b) Antivirus software
+c) System logs
+d) Incident response plan
+
+84. What does NIST stand for in cybersecurity standards?
+a) National Institute of Standards and Technology
+b) Network Information Security Team
+c) National Infrastructure Security Taskforce
+d) New Internet Security Technologies
+
+85. Which encryption mode is most suitable for encrypting data of varying lengths?
+a) ECB (Electronic Codebook)
+b) CBC (Cipher Block Chaining)
+c) CTR (Counter)
+d) OFB (Output Feedback)
+
+86. What is the main function of a web application firewall (WAF)?
+a) To encrypt web traffic
+b) To filter and monitor HTTP traffic
+c) To manage user accounts
+d) To accelerate web content delivery
+
+87. Which of the following is a characteristic of a zero-day exploit?
+a) Has been publicly known for a long time
+b) Only affects outdated systems
+c) Targets a previously unknown vulnerability
+d) Always results in system crash
+
+88. What is the purpose of a security control assessment?
+a) To encrypt all data in transit
+b) To evaluate the effectiveness of implemented security controls
+c) To manage user accounts
+d) To block malicious websites
+
+89. Which protocol is used for secure instant messaging?
+a) XMPP
+b) OTR
+c) HTTP
+d) SMTP
+
+90. What is the main goal of security metrics?
+a) To increase system performance
+b) To measure and communicate the effectiveness of security programs
+c) To encrypt all data
+d) To manage user accounts
